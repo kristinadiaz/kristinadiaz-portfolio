@@ -1,4 +1,5 @@
 MAIN PORTFOLIO TITLE
 
-![IMG_0784](https://user-images.githubusercontent.com/89321676/130336369-89520326-3fdd-4879-809b-56396fa35e3f.JPG)
+![Ikon Pass Photo](https://user-images.githubusercontent.com/89321676/130336398-eb04b709-fc57-40c4-a7bb-16b948f88858.jpg)
+
 
