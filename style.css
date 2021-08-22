@@ -1,0 +1,92 @@
+/* CSS for webpage */
+/* Set ALL HTML elements with border-box sizing */
+
+* {
+    box-sizing: border-box;
+  }
+
+/* header, logo, footer */
+
+.text-centered {
+    text-align: center;
+}
+
+.dark-background {
+    background-color: #264653;
+    color: #E9C46A;
+    margin: auto;
+}
+
+.wrapper {
+    width: 525px;
+    margin: auto;
+}
+
+/* body & main */
+
+.light-background {
+    width: 600px;
+    background-color: #E9C46A;
+    color: #000000;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+/* header image */
+
+header {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+/* footer */
+
+footer {
+    text-align: center;
+}
+
+/* heading alignment */
+
+h3 {
+    text-align: center;
+}
+
+/* text color, font, size */
+
+h1 {
+    font-family: 'Courier New, Courier, monospace';
+    font-size: 30px;
+    text-align: center;
+    color: #FFD166;
+}
+
+h2 {
+    font-family: "fantasy";
+    font-size: 20px;
+    text-align: center;
+    color: #FFD166;
+}
+
+h3, p, li {
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    font-size: 20px;
+    color: #000000; 
+}
+
+/* horizontal rule */
+
+hr {
+    width: 15px;
+    height: 15px;
+    border: none;
+    background: #264653;
+    color: #264653;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    transform: rotate(45deg);
+}
