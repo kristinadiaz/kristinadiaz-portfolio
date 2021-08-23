@@ -12,8 +12,6 @@
 }
 
 .dark-background {
-    margin-top: 0;
-    margin-bottom: 0;
     background-color: #264653;
     color: #F1FAEE;
 }
@@ -25,9 +23,13 @@
 
 /* body & main */
 
+.light {
+    background-color: #F1FAEE;
+}
+
 .light-background {
     width: 600px;
-    background-color: #F1FAEE;
+    background-color: transparent;
     color: #000000;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
@@ -61,7 +63,7 @@ h3 {
 
 h1 {
     font-family: "Lucida Handwriting", "Brush Script MT";
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     color: #F1FAEE;
 }
