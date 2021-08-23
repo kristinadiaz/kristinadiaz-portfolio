@@ -77,7 +77,7 @@ h2 {
     color: #F1FAEE;
 }
 
-h3, p, li {
+h3, p, ul, ol {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     color: #000000; 
@@ -103,9 +103,14 @@ hr {
 
 /* pseudo-classes for links */
 
-a:link     { color: #008080; }
-a:visited: { color: #FF5733;   }
-a:hover:   { color: #FFC0CB;   }
-a:active:  { color: #6A5ACD;   }   
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+a:link {color: #0000FF;}
+a:visited {color: #FF0000;}
+a:hover {color: #DDA0DD;}
+a:active {color: #008000;}
 
 /* end of code */
