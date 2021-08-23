@@ -109,8 +109,8 @@ a {
 }
 
 a:link {color: #0000FF;}
-a:visited {color: #FF0000;}
-a:hover {color: #DDA0DD;}
-a:active {color: #008000;}
+a:visited {color: #008080;}
+a:hover {color: #7B68EE;}
+a:active {color: #DDA0DD;}
 
 /* end of code */
