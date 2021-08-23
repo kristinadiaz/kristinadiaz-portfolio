@@ -31,9 +31,10 @@
     padding: 0 20px 20px 20px;
 }
 
-/* header image */
+/* header, image */
 
 header {
+    margin: 0;
     text-align: center;
 }
 
@@ -58,7 +59,7 @@ h3 {
 /* text color, font, size */
 
 h1 {
-    font-family: "Lucida Handwriting";
+    font-family: "Lucida Handwriting", "Brush Script MT";
     font-size: 30px;
     text-align: center;
     color: #FFD166;
