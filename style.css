@@ -14,8 +14,8 @@
 .dark-background {
     margin-top: 0;
     margin-bottom: 0;
-    background-color: #264653;
-    color: #E9C46A;
+    background-color: #E63846;
+    color: #F1FAEE;
 }
 
 .wrapper {
@@ -27,7 +27,7 @@
 
 .light-background {
     width: 600px;
-    background-color: #E9C46A;
+    background-color: #F1FAEE;
     color: #000000;
     margin: 0 auto;
     padding: 0 20px 20px 20px;
@@ -63,14 +63,14 @@ h1 {
     font-family: "Lucida Handwriting", "Brush Script MT";
     font-size: 30px;
     text-align: center;
-    color: #FFD166;
+    color: #F1FAEE;
 }
 
 h2 {
     font-family: "Courier New", Courier, monospace;
     font-size: 20px;
     text-align: center;
-    color: #FFD166;
+    color: #F1FAEE;
 }
 
 h3, p, li {
