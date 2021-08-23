@@ -12,6 +12,8 @@
 }
 
 .dark-background {
+    margin-top: 0;
+    margin-bottom: 0;
     background-color: #264653;
     color: #E9C46A;
 }
@@ -34,8 +36,6 @@
 /* header, image */
 
 header {
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
     text-align: center;
 }
 
