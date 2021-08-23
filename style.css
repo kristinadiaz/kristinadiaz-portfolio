@@ -103,3 +103,9 @@ hr {
 
 /* pseudo-classes for links */
 
+a:link     { color: #008080; }
+a:visited: { color: #FF5733;   }
+a:hover:   { color: #800080;   }
+a:active:  { color: #FFC0CB;   }   
+
+/* end of code */
